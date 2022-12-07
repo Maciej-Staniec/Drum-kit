@@ -1,0 +1,42 @@
+body {
+  background: #283149;
+  font-family: "Arvo", serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Arvo", serif;
+  color: #dbedf3;
+  font-size: 5rem;
+  text-shadow: 3px 0 #da0463;
+}
+
+footer {
+  position: fixed;
+  bottom: 10px;
+  color: white;
+  width: 100%;
+}
+
+.drum {
+  background-color: #ffffff;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.drum {
+  font-size: 5rem;
+  line-height: 2;
+  font-family: "Arvo", serif;
+  border: 10px solid #404b69;
+  color: #da0463;
+  font-weight: 700;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  background-color: white;
+}
